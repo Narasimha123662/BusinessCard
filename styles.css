@@ -87,7 +87,7 @@ body {
 
 .signature-text {
     position: absolute;
-    top: 60%;
+    top: 35%;
     left: 56%;
     transform: translate(-50%, -50%);
     font-family: 'Lucida Handwriting', 'Lucida Sans', cursive;
